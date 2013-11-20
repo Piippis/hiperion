@@ -1,4 +1,4 @@
-browser-game
-============
+hiperion
+========
 
 Browser-based resource management game.
